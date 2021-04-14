@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/Michailovich/example_LP.git
+	branch = deploy
